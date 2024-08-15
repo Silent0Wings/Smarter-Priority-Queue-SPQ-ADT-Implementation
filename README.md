@@ -5,6 +5,8 @@ This repository contains the implementation of a Smarter Priority Queue (SPQ) Ab
 ![UML Diagram](https://github.com/Silent0Wings/Smarter-Priority-Queue-SPQ-ADT-Implementation/blob/ac0fec116405b1a92af00ff598ba523c32663dd0/SPQ/UML.png)
 ## Project Overview
 
+[Full Repport](https://github.com/Silent0Wings/Smarter-Priority-Queue-SPQ-ADT-Implementation/blob/76dbf379da75d90ef30f2a23b8c6566740bf3dc8/Github.pdf)
+
 The SPQ utilizes a dynamic array for the heap implementation, allowing it to flexibly handle operations as either a min-heap or max-heap based on the current configuration. This dual functionality is pivotal in applications requiring priority assessments from both ends of the spectrum.
 
 ### Key Features
