@@ -2,8 +2,7 @@
 
 This repository contains the implementation of a Smarter Priority Queue (SPQ) Abstract Data Type (ADT) using a parameterized heap. The SPQ is designed to support both min-heap and max-heap configurations with dynamic adaptability and efficient management.
 
-![UML Diagram]([https://example.com/path_to_your_image.png](SPQ/ZLHDRzGm4BtlhnZjoOLTYOzRLAfMfH8e1q1TvO9GDPiTqdGTszZEiW7ntx63tU1uAxKdU-QzcTVtdBqq5hNjExvGME-n8RWofcr4HyBUlONVYqNDqHYu4LOFvoNGqPBO6RYMdKADMqxdvSKAgWi71VUtXZqD1PJXSa3UKm5LkDQzrdvmAtPqBA0LTcoy_3UU2VfPEkuAtA5ohBFG.png)
-
+![UML Diagram](https://github.com/Silent0Wings/Smarter-Priority-Queue-SPQ-ADT-Implementation/blob/ac0fec116405b1a92af00ff598ba523c32663dd0/SPQ/UML.png)
 ## Project Overview
 
 The SPQ utilizes a dynamic array for the heap implementation, allowing it to flexibly handle operations as either a min-heap or max-heap based on the current configuration. This dual functionality is pivotal in applications requiring priority assessments from both ends of the spectrum.
