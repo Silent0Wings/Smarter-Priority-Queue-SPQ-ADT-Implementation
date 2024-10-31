@@ -6,7 +6,8 @@ This repository contains the implementation of a Smarter Priority Queue (SPQ) Ab
 <p align="center">
     <img src="https://github.com/Silent0Wings/Smarter-Priority-Queue-SPQ-ADT-Implementation/blob/ac0fec116405b1a92af00ff598ba523c32663dd0/SPQ/UML.png" alt="UML Diagram" width="250"/>
 </p>
-## Project Overview
+
+### Project Overview
 
 [Full Repport](https://github.com/Silent0Wings/Smarter-Priority-Queue-SPQ-ADT-Implementation/blob/1e9b89b6d74bec028efee7a05d586e81d9a413eb/Github_.pdf)
 
